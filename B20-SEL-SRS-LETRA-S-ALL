@@ -310,12 +310,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-
 <channels>
 <channel>
 <name>[COLOR white][B]Sintonia (2019-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C1-SRS-Sintonia-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C001-SRS-Sintonia.2019-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -324,11 +322,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 A 2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos 
 rodeados por música, drogas e religião.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
