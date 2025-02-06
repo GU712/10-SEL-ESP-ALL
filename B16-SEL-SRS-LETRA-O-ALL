@@ -120,27 +120,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Besouro Verde (1966) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C6-SRS-Besouro.Verde-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/2wDWTFqUxo9h3aRERXTI9TDbfxG.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Besouro Verde
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Britt Reid é o dono do jornal "Daily Sentinel" ("Sentinela Diário"), mas também é o 
-justiceiro mascarado conhecido como Besouro Verde que combate o crime juntamente com seu auxiliar Kato.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]O Túnel Do Tempo (1966) - FHD COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C007A-SRS-O.Tunel.do.Tempo-FHD-ALL</externallink>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
@@ -179,6 +158,27 @@ se perdem no tempo e são monitorados por uma equipe que permanece no laboratór
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Besouro Verde (1966) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C6-SRS-Besouro.Verde-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/2wDWTFqUxo9h3aRERXTI9TDbfxG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Besouro Verde
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Britt Reid é o dono do jornal "Daily Sentinel" ("Sentinela Diário"), mas também é o 
+justiceiro mascarado conhecido como Besouro Verde que combate o crime juntamente com seu auxiliar Kato.
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -249,21 +249,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Barco do Amor (1977-1986) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C48-COL-O.Barco.do.Amor-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/w1Wj22H2IKIPUUShFXRDaqHYcfn.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart>
+<name>[COLOR white][B]O Incrível Hulk (1977-1981) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D10B1-SRS-O.Incrivel.Hulk-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/zAim6MnM8LUY88GwIDoF9TX8ReU.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]O Barco do Amor
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1986
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]10 TEMPs - 151 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Passageiros que buscam noites românticas a bordo de um lindo navio viajando para países 
-tropicais ou misteriosos, decidem passar as férias a bordo do “Barco do Amor”.
-[COLOR black].[/COLOR]
+[B]O Incrível Hulk
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1981
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 82 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Dr. David Banner trabalha num experimento que da errado: sempre que ele está sob 
+muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -292,22 +293,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Incrível Hulk (1977-1981) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D10B1-SRS-O.Incrivel.Hulk-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/zAim6MnM8LUY88GwIDoF9TX8ReU.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>
+<name>[COLOR white][B]O Barco do Amor (1977-1986) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C48-COL-O.Barco.do.Amor-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/w1Wj22H2IKIPUUShFXRDaqHYcfn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gW5Z0SrFsyNUHUVUESHO6HXibED.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]O Incrível Hulk
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1981
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 82 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Dr. David Banner trabalha num experimento que da errado: sempre que ele está sob 
-muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk
-[/B][COLOR black].[/COLOR]
+[B]O Barco do Amor
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]10 TEMPs - 151 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Passageiros que buscam noites românticas a bordo de um lindo navio viajando para países 
+tropicais ou misteriosos, decidem passar as férias a bordo do “Barco do Amor”.
+[COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -397,51 +397,24 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-
-
-
-
-
 <channels>
 <channel>
-<name>[COLOR white][B]O Livro de Boba Fett (2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B3-SRS-Boba.Fett.2021-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xBU6uZ1gkzdmvrmq1CXbgazpEX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dffcRAPDi198VbtRczKafZ6UzAV.jpg</fanart>
+<name>[COLOR white][B]O Mentalista (2008-2014) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C027-SRS-O.Mentalista.2008-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xFzmU1h2aKPKobNGIgzZSRxCkwE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]O Livro de Boba Fett
+[B]O Mentalista
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 07 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando 
-o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008 a 2014
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 151 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. 
+Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]O Psiquiatra ao Lado (2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C25-SRS-O.Psiquiatra.ao.Lado-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ieWve8oBT3PuT4e7ohtGp2mgmsN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9Hc0JluEcAKkJoZM7o65pzSI7Ir.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Psiquiatra ao Lado
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Marty só queria um terapeuta que o ensinasse a estabelecer limites. Ao longo de 30 anos, 
-ele aprende tudo sobre eles, e também sobre o que acontece quando são ultrapassados.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -553,6 +526,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]O Exército Esquecido (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C008-SRS-O.Exerc.Esquecido.2020-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/7m6fW2VzfeVQtE7ETjWQEKiAO4O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/quqzGmrRBX5BP4v8FQe8a6fmm7i.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Exército Esquecido
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano.
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]O Mandaloriano (2019 e 2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B5-SRS-O.Mandaloriano.2019-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/y7mzyS2p4OeKZzXnDFxQZrgQW7x.jpg</thumbnail>
@@ -569,26 +562,6 @@ esquecidos e marginais do espaço, logo após a queda do Império e antes da cri
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]O Exército Esquecido (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C008-SRS-O.Exerc.Esquecido.2020-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/7m6fW2VzfeVQtE7ETjWQEKiAO4O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/quqzGmrRBX5BP4v8FQe8a6fmm7i.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Exército Esquecido
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano.
-[/B][COLOR black].[/COLOR]
-[COLOR white]Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -616,17 +589,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Gabinete de Curiosidades de Guillermo Del Toro (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C11-SRS-O.Gab.G.Toro.2022-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/sxMMOIuV99LOwcJICx1Wy4O8fgi.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rpTpgiwj63N2f6HnB5SKhei5N80.jpg</fanart>
+<name>[COLOR white][B]O Livro de Boba Fett (2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B3-SRS-Boba.Fett.2021-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/6xBU6uZ1gkzdmvrmq1CXbgazpEX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dffcRAPDi198VbtRczKafZ6UzAV.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]O Gabinete de Curiosidades de Guillermo Del Toro
+[B]O Livro de Boba Fett
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Abra a sua mente para o medo.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 07 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando 
+o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Psiquiatra ao Lado (2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C25-SRS-O.Psiquiatra.ao.Lado-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ieWve8oBT3PuT4e7ohtGp2mgmsN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Hc0JluEcAKkJoZM7o65pzSI7Ir.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Psiquiatra ao Lado
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Marty só queria um terapeuta que o ensinasse a estabelecer limites. Ao longo de 30 anos, 
+ele aprende tudo sobre eles, e também sobre o que acontece quando são ultrapassados.
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
@@ -658,22 +654,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Clube da Meia-Noite (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C019-SRS-O.Clube.da.Meia-Noite.2022-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/xHB8Ybc95dbjJVy8pxyONlNNpxO.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uhgAX0cGHchSNABBXJAeKaVOKcE.jpg</fanart>
+<name>[COLOR white][B]O Gabinete de Curiosidades de Guillermo Del Toro (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C11-SRS-O.Gab.G.Toro.2022-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/sxMMOIuV99LOwcJICx1Wy4O8fgi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rpTpgiwj63N2f6HnB5SKhei5N80.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]O Clube da Meia-Noite
+[B]O Gabinete de Curiosidades de Guillermo Del Toro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 010 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Num hospicio de cuidados paliativos para adolescentes, os membros de um clube exclusivo 
-fazem um pacto macabro: o primeiro a morrer tem de enviar um sinal do além.
-[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Abra a sua mente para o medo.
+[COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -742,10 +736,23 @@ Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-
-
-
+<channels>
+<channel>
+<name>[COLOR white][B]Os Biônicos (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D01B-SRS-Os.Bionicos-ALL</externallink>
+<thumbnail>https://i.ibb.co/hKvf4yt/COL-BIONIC-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/2Fdwqxy/COL-BIONIC-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Os Biônicos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -765,6 +772,7 @@ Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
@@ -905,4 +913,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
