@@ -12,16 +12,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bruce Lee[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D1-COL-Bruce.Lee-ALL</externallink>
-<thumbnail>https://i.ibb.co/sq3YFvm/COL-B-LEE-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/QMyhJ5n/COL-B-LEE-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
+<name>[COLOR white][B]Bruce Lee[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D06A-FLM-Bruce.Lee-ALL</externallink>
+<thumbnail>https://i.ibb.co/K2GwrPB/ESP-B-LEE-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/WpF2LkC/ESP-B-LEE-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de filmes: 
 [B]Bruce Lee
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -31,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Charles Bronson[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/1A1-COL-Charles.Bronson-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A1A-FLM-Charles.Bronson-ALL</externallink>
 <thumbnail>https://i.ibb.co/XSc2zLM/COL-CHARLES-BRONSON-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/d0RS8X3/COL-CHARLES-BRONSON-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
@@ -140,8 +141,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Mazzaropi[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/1A2-COL-Mazzaropi-ALL</externallink>
+<name>[COLOR white][B]Mazzaropi (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A2-COL-Mazzaropi-ALL</externallink>
 <thumbnail>https://i.ibb.co/HBgZR2y/COL-MAZZAROPI-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/fqj704k/COL-MAZZAROPI-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
