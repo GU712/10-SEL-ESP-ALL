@@ -246,7 +246,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Cocoricó (1996-2013) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Cocoricó (1996-2013) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>	
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C32-SRS-Cocorico-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/xDivDzd1yF7NG6GW6ccz7ramLuv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gcI9rFfXN99r8NvxVrU6yRfNn7P.jpg</fanart>
@@ -260,7 +260,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Um lugar encantador onde os animais falam, cantam e vivem se metendo em confusões muito divertidas. 
 [COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
