@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]9-1-1 (2018-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C013-SRS-911.2018-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C13-SRS-911-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/vHq6VlLijLppMPFXhWo3hqjYY8q.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -45,12 +45,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 106 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são 
 incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.
-[/B][COLOR black].[/COLOR]
+[COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -99,13 +98,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]1923 (2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]1923 (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C013-SRS-1923.2023-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9I6LgZ5110ycg4pyobJxGTFWFCF.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]1923
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 08 EPs
@@ -260,4 +259,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
