@@ -165,7 +165,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Demolidor: O Homem Sem Medo (2015-2018) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C11-SRS-Demolidor-2015-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D16B1-SRS-Daredevil.2015-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/x7zUHG5cko4ZXQO2209Qc2aoyrc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gLACGQiS8kRP2hDnzdmIYo2uRRc.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -174,11 +174,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2018
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓI
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 39 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]De dia, Murdock representa os oprimidos e à noite, ele é o Demolidor, um vigilante 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]De dia, Murdock representa os oprimidos e à noite, ele é o Demolidor, um vigilante 
 mascarado e vingador implacável da justiça.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -197,6 +198,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. 
 Acompanhe sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Demolidor: Renascido (2025) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D16B2-SRS-Daredevil.Renascido.2025-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h1PGmI9yEeyXZRlYvJPshslt725.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Demolidor: Renascido
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2025
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 09 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça, 
+enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
