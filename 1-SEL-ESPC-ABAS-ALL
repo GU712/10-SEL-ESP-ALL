@@ -1,7 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1-SEL-ESPC-ABAS-ALL</externallink>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/266Q0jp/SEL-ITEM-ESPC-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
@@ -33,7 +33,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Best Of -> ATORES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A-SEL-ATORES-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1A-SEL-ATORES-ALL</externallink>
 <thumbnail>https://i.ibb.co/pKdf5kk/ABA-ATORES-DIRETORES-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/K0TGbsB/ABA-ATORES-DIRETORES-FAN.png</fanart>
 <info>[COLOR white]Conheça o Melhor de: 
@@ -52,7 +52,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Best Of -> FICÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/2A-SEL-FIC-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/2A-SEL-FIC-ALL</externallink>
 <thumbnail>https://i.ibb.co/HXSBQ3m/ABA-FIC-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/r6dFDdT/ABA-FIC-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o Melhor da: 
@@ -71,7 +71,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Best Of -> ANIMAÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/3A-SEL-ANIMA-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/3A-SEL-ANIMA-ALL</externallink>
 <thumbnail>https://i.ibb.co/9hFz7zq/ABA-ANIMA-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/ncM06bG/ABA-ANIMA-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o Melhor de: 
@@ -90,7 +90,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Best Of -> MONSTROS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/4A-SEL-FEAR-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/4A-SEL-FEAR-ALL</externallink>
 <thumbnail>https://i.ibb.co/VC3KKFv/ABA-FEAR2-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/hKMzc21/ABA-FEAR2-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o Melhor de: 
@@ -108,27 +108,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> PERSONAGENS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/5A-SEL-PERSON-ALL</externallink>
-<thumbnail>https://i.ibb.co/02kHMfv/ABA-PERSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3hrPYDC/ABA-PERSON-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]PERSONAGENS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]PERSONAGENS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]The Best Of -> SUPER-HERÓIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/6A-SEL-HERO-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/6A-SEL-HERO-ALL</externallink>
 <thumbnail>https://i.ibb.co/MSxV1H1/ABA-HERO-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/XxgtTZz/ABA-HERO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o Melhor de: 
@@ -146,8 +127,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]The Best Of -> PERSONAGENS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/5A-SEL-PERSON-ALL</externallink>
+<thumbnail>https://i.ibb.co/02kHMfv/ABA-PERSON-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/3hrPYDC/ABA-PERSON-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]PERSONAGENS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]PERSONAGENS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]The Best Of -> NACIONAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A-SEL-NACIONAIS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A3-SEL-COL-NCNS-ALL</externallink>
 <thumbnail>https://i.ibb.co/Vj60h0r/ABA-NCNS-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/ySpsSD0/ABA-NCNS-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o Melhor de: 
@@ -168,7 +168,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1-SEL-ESPC-ABAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -178,7 +178,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1-SEL-ESPC-ABAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
