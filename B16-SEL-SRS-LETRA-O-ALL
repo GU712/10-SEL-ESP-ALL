@@ -13,6 +13,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Os Três Patetas (1934-1959) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>	
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D03B1-SRS-Os.Tres.Patetas-PB-ALL</externallink>
+<thumbnail>https://i.ibb.co/348rcTw/COL-3-PTTAS-ICON-SRS-ALL.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v97m39cRhUaeis1QoOJyOSQpgaV.jpg</fanart>
+<info>[COLOR white]Assista aqui a coleção: 
+[B]Os Três Patetas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1934 a 1959
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]190 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os três patetas foi um grupo cômico norte-americano do século XX, mais conhecido por seus 
+numerosos curtas-metragens. Sua comicidade era marcada pela extrema comédia pastelão e farsa física. 
+[COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem do Rifle (1958-1962) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C019-SRS-O.Homem.do.Rifle.1958-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/2mGxzchZVztzRlyzfWkkVDKz700.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yNa8wfIwLOSVI0pzkioM4Ll60CI.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Homem do Rifle
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1958 a 1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 168 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]McCain tem pouco tempo para o rancho e o filho. Seu maior dom era o manejo inigualável 
+de um rifle Winchester modificado, o que lhe valeu a alcunha de O Homem do Rifle.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Os Intocáveis (1959-1962) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D02-SEL-Os.Intocaveis-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg</thumbnail>
@@ -447,6 +491,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]O Conde de Monte Cristo (1998) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D10B-SRS-O.Conde.de.Monte.Cristo-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/4i1hJyscqwktZdCt11GCnq5O1lR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x9HnnTysi8TR0LPXvY9SmsOTjuQ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Conde de Monte Cristo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1998
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 04 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Edmond Dantes é injustamente acusado e sentenciado a passar o resto da vida em um castelo. 
+Lá, conhece um preso que conta a Edmond sobre um fantástico tesouro escondido. Após muitos anos preso, Edmond escapa.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]O Mentalista (2008-2014) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C027-SRS-O.Mentalista.2008-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
@@ -463,27 +529,6 @@ Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admit
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]O Mentalista (2008-2014) - COMPLETA[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C27-SRS-O.Mentalista-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xFzmU1h2aKPKobNGIgzZSRxCkwE.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Mentalista
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008 a 2014
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 151 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. 
-Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
