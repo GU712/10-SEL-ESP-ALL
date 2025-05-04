@@ -165,7 +165,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Franjinha e Milena em Busca da Ciência (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C17-SRS-Franjinha.e.Milena-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/C017-SRS-Franjinha.e.Milena-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/tC3xl3EEd92Wz3dntK3pTjBb9vz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5Q3Ve0tgrdmcyNgVhoe7TPWk9OY.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -174,11 +174,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]INFANTL
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Milena, Franjinha e Bidu tentam viajar no tempo em uma divertida aventura científica. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Milena, Franjinha e Bidu tentam viajar no tempo em uma divertida aventura científica. 
 A cada episódio outros problemas surgem, e eles descobrem que a verdadeira viagem no tempo é a própria ciência!
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -345,4 +346,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
