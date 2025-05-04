@@ -1,44 +1,37 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A3-SEL-COL-NCNS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A2-SEL-SRS-NCNS-ALL</externallink>
+<thumbnail>https://i.ibb.co/266Q0jp/SEL-ITEM-ESPC-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+NUMERAL			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "A"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Grande Familia (Filme - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D02-COL-A.Grande.Familia-ALL</externallink>
-<thumbnail>https://i.ibb.co/SKf7VRG/COL-G-FAM-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/pv4qJv0/COL-G-FAM-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]A Grande Familia
+<name>[COLOR white][B]A Diarista (2004-2007) - COMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C37-SRS-A.Diarista-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/oZBczD3fofoUlQZILHPz5FJ366L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/beAPO5Zg6NAwD5nxCx8SFO7MwTL.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Diarista
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2004 a 2007
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Chico Anisio (Filme - Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D09-SEL-Chico.Anisio-ALL</externallink>
-<thumbnail>https://i.ibb.co/nNWhSLJj/ESP-CHICOANYSIO-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/6cCWXHBC/ESP-CHICOANYSIO-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Chico Anisio
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 120 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Marinete é uma diarista que vive se metendo em confusão. Suas amigas Solineuza, Dalila e 
+Ipanema costumam ser os pivôs das enrascadas em que se envolve.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -49,33 +42,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mamonas Assasinas (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/B1-COL-Mamonas-ALL</externallink>
-<thumbnail>https://i.ibb.co/tqCGdp7/COL-MAMONAS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/sFrmKVq/COL-MAMONAS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Mamonas Assasinas
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Os Trapalhões (Filmes - Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D10-SEL-Os.Trapalhoes-ALL</externallink>
-<thumbnail>https://i.ibb.co/2QxSwjr/ESP-TRAPALHOES-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/1t1W1wqh/ESP-TRAPALHOES-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Os Trapalhões
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+<name>[COLOR white][B]A Escolinha do Golias (1990-1997) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C40-SRS-A.Escolinha.do.Golias-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/z1N7zVjUucICckvNXT0qohoKfxI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cvNoeKtzkkYdbnbpccPlHNz58BE.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Escolinha do Golias
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1990 a 1997
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 81  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O professor Caliostro tem o difícil papel de colocar ordem em uma sala de aula muito 
+louca. Pacífico e os demais alunos deixam o professor maluco com muitas piadas e brincadeiras.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -86,12 +64,367 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Sitio do Picapau Amarelo (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D06B-SRS-Sitio.do.Picapau.Amarelo-ALL</externallink>
-<thumbnail>https://i.ibb.co/4WM0X80/ESP-PIC-PAU-AMA-SRS.png</thumbnail>
+<name>[COLOR white][B]A Grande Família (2001-2014) - COMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D02B1-SRS-A.Grande.Familia.2001-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/draJzGrnfB8gEqCGJrPhNORu0nz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nLY3pETA67McfRbvgbYioDoOAQf.jpg</fanart>	
+<info>[COLOR white]Assista aqui a série: 
+[B]A Grande Família
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2014
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]14 TEMPs - +400 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um retrato bem-humorado do cotidiano repleto de conflitos, crises conjugais, 
+dificuldades profissionais e financeiras e também de muito amor e união de uma família suburbana.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Arcanjo Renegado (2020-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C010-SRS-Arcanjo.Renegado.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/czlKxUYrduRzBF5eQsphqSXrjMb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jv7SNXFvzqdhEKwYLyImajSPQ3B.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Arcanjo Renegado
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em 
+uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Armação Ilimitada (1985- 1988) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C18-SRS-Armasao.Ilimitada-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/eqR5P2Dui9CGkSeQtQghDfs09qm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iqkkxzEnKD3ZXXe7WSCj5TzFgvf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Armação Ilimitada
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a  1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 66 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Juba e Lula são sócios na Armação Ilimitada, uma empresa prestadora de serviços, e 
+topam qualquer desafio: de competições esportivas a cenas arriscadas como dublês de anúncios para a TV.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "B"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "C"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Carga Pesada (2003-2007) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/C13A-SRS-Carga.Pesada-FHD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9jz89yRGaizbKJZN9CV7697U4B8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3crCb5Oizcm8CbPo7VslCrZ4W8Z.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Carga Pesada
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2007
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 64 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Pedro e Bino, dois caminhoneiros que rodam pelas estradas brasileiras transportando 
+mercadorias. Em muitas ocasiões eles se envolvem em romances e, em outras, enrascadas com bandidos e na maioria das vezes se dão muito bem.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Castelo Rá-Tim-Bum (1994-1997) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C006-SRS-Castelo.Ra.Tim.Bum.1994-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/zR6cnkya5ef5e1ByOqaa4ahD2bH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bWIcKlkIge0AGYIxlB7AuyUJ5y5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Castelo Rá-Tim-Bum
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994 a 1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 91 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Nino, um menino de 300 anos, vive no Castelo com seus tios Victor, um grande inventor, 
+e Morgana, uma feiticeira. Junto aos seus novos amigos, Biba, Pedro e Zequinha, eles vivem grandes aventuras.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Cocoricó (1996-2013) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>	
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C032-SRS-Cocorico.1996-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gcI9rFfXN99r8NvxVrU6yRfNn7P.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Cocoricó
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996 a 2013
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPS - 287 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As aventuras de Júlio, um menino de 8 anos, que mora com seus avós na Fazenda Cocoricó. 
+Um lugar encantador onde os animais falam, cantam e vivem se metendo em confusões muito divertidas. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "D"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "E"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "F"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Franjinha e Milena em Busca da Ciência (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C17-SRS-Franjinha.e.Milena-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/tC3xl3EEd92Wz3dntK3pTjBb9vz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5Q3Ve0tgrdmcyNgVhoe7TPWk9OY.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Franjinha e Milena
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]INFANTL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Milena, Franjinha e Bidu tentam viajar no tempo em uma divertida aventura científica. 
+A cada episódio outros problemas surgem, e eles descobrem que a verdadeira viagem no tempo é a própria ciência!
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "G"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "H"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Heróis - O Brasil na Segunda Guerra Mundial (2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C004-SRS-Herois.da.FEB.2021-ALL</externallink>
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail>		
+<fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Heróis
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 05 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Heróis é a primeira série brasileira sobre a participação do Brasil na Segunda Guerra Mundial.
+[/B][COLOR black].[/COLOR]
+[COLOR white]Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+			
+<channels>
+<channel>
+<name>[COLOR white][B]Hilda Furacão (1998) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B013-SRS-Hilda.Furacao.1998-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/xJgDZQDscZpQ5JJ2Ms9QOYoIEk9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xdbGueqJg6FsSFMvOZqtXQGw4WF.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Hilda Furacão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1998
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 032 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Hilda é uma bela moça da alta sociedade que desiste do casamento no dia da cerimônia,
+ rompe com a família e vai morar na zona boêmia de Belo Horizonte.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "I"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "J"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "K"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "L"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "M"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Maria e o Cangaço (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C020-SRS-Maria.e.o.Cangaso.2025-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/q44Zcijcj7tx7CHgG2MPAmGufGW.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Maria e o Cangaço
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2025
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Maria de Déa, companheira de Lampião e a primeira mulher cangaceira, é uma jovem 
+destemida que ousa ter voz num grupo de foras-da-lei.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "N"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "O"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]O Album da Grande Familia (2017-2019) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D02B2-SRS-O.Album.2017-ALL</externallink>
+<thumbnail>https://s2-globo-play.glbimg.com/PXCPwt9LfS7r6pD4hasv3SA0fGI=/362x536/https://s2-globo-play.glbimg.com/aOqwWcRjwO3FrcS2SF5F1fHfrUQ=/https://s2.glbimg.com/Xqoo1g5-zkQCy9BJ0eckhsI9X6o=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/5/h/DR1WcaRIehOUcLrQBt9Q/2021-2557-o-album-da-grande-familia-poster.jpg</thumbnail>
+<fanart>https://extra.globo.com/incoming/21058929-7a1-bda/w976h550-PROP/grandefamilia.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Album da Grande Familia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 204 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Especial reúne episódios de várias temporadas e mostra a evolução dos personagens 
+ao longo dos 14 anos em que o seriado esteve no ar.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "P"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Q"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "R"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "S"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Sai de Baixo (1996-2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C35-SRS-Sai.de.Baixo-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3w11talcPZHoO20cvDjYGU0ExVK.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sai de Baixo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996 a 2013
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 246 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um apartamento no Largo do Arouche é o cenário para as confusões de uma divertida família!
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Sintonia (2019-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C001-SRS-Sintonia.2019-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sintonia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 A 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos 
+rodeados por música, drogas e religião.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Sítio do Picapau Amarelo (Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D06-SEL-Sitio.do.Pic.Amar-ALL</externallink>
+<thumbnail>https://i.ibb.co/g4yVDdq/ESP-PIC-PAU-AMA-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/ZY1tvWH/ESP-PIC-PAU-AMA-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção de séries: 
-[B]Sitio do Picapau Amarelo
+<info>[COLOR white]Conheça o especial: 
+[B]Sítio do Picapau Amarelo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -105,16 +438,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]TV Colosso (Filmes - Série)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D04-COL-TV.Colosso-ALL</externallink>
-<thumbnail>https://i.ibb.co/6wSP7XY/COL-TVCOLOSSO-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/GQbHmRm/COL-TVCOLOSSO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]TV Colosso
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+<name>[COLOR white][B]Sob Nova Direção (2004-2007) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C51-COL-Sob.Nova.Diresao.2004-SL4-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/pmimYoj9cTqG1fhjoytTPtDC2oY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lNJT83L36hhwoGRQt22iDvgQ6cJ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Sob Nova Direção
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2004 a 2007
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 124 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As confusões das amigas Pit e Belinha, donas de um bar no subúrbio do Rio. Elas contam 
+com a ajuda dos funcionários Franco e Moreno e do cliente Horácio.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -122,10 +459,148 @@ Avise o SUPORTE AO USUÁRIO.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "T"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Terrores Urbanos (2018) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C002-SRS-Terrores.Urbanos.2018-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zifIuDHn5lPTme0FbZW08hxs3t5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Terrores Urbanos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 05 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Terrores Urbanos é uma série da Record TV onde cinco lendas urbanas, de diferentes regiões do país,
+são contadas de maneira nunca antes vista.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Toma Lá, Dá Cá (2007-2009) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C36-SRS-Toma.La.Da.Ca-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9KyafMIchKWTjRmtE7I41uDBDFv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j46YBxcV9LiOY2eKgbSHuAvaJpI.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Toma Lá, Dá Cá
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2007 a 2009
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 92 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Duas famílias separadas por um corredor, mas que participam ativamente da vida uns dos 
+outros.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]TV Colosso (1993-1997) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D05B-SRS-TV.Colosso-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/vzVbjj3CdMwtbYI5zBaRpmspqZ4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d3iYr7oWENgO4t99Mi4KuDYwA0o.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]TV Colosso
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - +100 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Programa infantojuvenil estrelado por bonecos, que alterna quadros com exibição de 
+desenhos animados. O cast de bonecos é composto por 28 fantoches, sendo 25 cachorros e três pulgas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]TV Pirata (1988-1992) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C39-SRS-TV.Pirata-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/bhEej1kmk9ADmHm25RAWv8wh7QB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2TvIuQpT7vXDrToQiI9n0Sl9hgo.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]TV Pirata
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1988 a 1992
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 34 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma seleção de quadros e episódios, dentre os melhores da série, exibidos de 1988 a 1992 
+na TV Globo. E ainda duas novelas completas: 'Fogo no Rabo' e 'O Segredo de Darcy'.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "U"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "V"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+			
+<channels>
+<channel>
+<name>[COLOR white][B]Vigilante Rodoviário (1962) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C038-SRS-Vigilante.Rodoviario.1962-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/jEgC5T5cO3NrST9s9tWXKioImd0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pXrPFxjnk61uS8SluHlAGN1OPcq.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Vigilante Rodoviário
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME E DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 38 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O heroico Inspetor Carlos e seu fiel cão Lobo combatendo o crime. O personagem 
+principal é membro da Policia Rodoviária e a história é ambientada nas estradas paulistas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "W"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "X"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Y"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Z"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A3-SEL-COL-NCNS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A2-SEL-SRS-NCNS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -135,7 +610,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A3-SEL-COL-NCNS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A2-SEL-SRS-NCNS-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
