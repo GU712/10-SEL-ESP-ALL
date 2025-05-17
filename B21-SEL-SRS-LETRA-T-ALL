@@ -11,6 +11,14 @@ E DIVIRTA-SE[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "30"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "40"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]The Phanton (1943) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
@@ -33,6 +41,14 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "50"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "60"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]The Big Valley (1965-1968) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
@@ -47,6 +63,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 112 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]The Big Valley é uma série de faroeste exibida na ABC de 15 de setembro de 1965 a 
 19 de maio de 1969. O programa é estrelado por Barbara Stanwyck, como a viúva de um rico fazendeiro da Califórnia do século XIX.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Thunderbirds (1965) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D10B2-SRS-Thunderbirds.1965-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ucUUv8ppNxupIX01suxhZkAw8qr.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Thunderbirds
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 30 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As missões da equipe Resgate Internacional, uma organização cuja tecnologia avançada 
+os ajuda nos resgates.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -98,6 +136,42 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR white][B]Thunderbirds - O Filme (1966) SD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/FLM/LS-1966.Thunderbirds.em.Acao-O.Filme.SD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2k4fRtEW381NSDcTkP6nwEm9fWv.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/2ULcmRBUxzunUlQ1gFDrjnoCEPy.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Thunderbirds
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As missões da equipe Resgate Internacional, uma organização cuja tecnologia avançada 
+os ajuda nos resgates.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Thunderbird 6 - O Filme (1968) SD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-CL/Puppies/FLM/LS-1968.Thunderbird.6.SD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1zxO00ycylxZ8lFET5uXNOtBCcE.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/zuIqNx6rq9mJyMUnNgkO9ygXtW3.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Thunderbird 6
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A equipe Tracy soma esforços para que Lady Penélope possa derrotar uma gangue 
+internacional de terroristas que decidiram destruir o Resgate Internacional.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR white][B]Terra de Gigantes (1968-1969) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
@@ -120,6 +194,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "70"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]Trio Calafrio (1975) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
@@ -141,6 +219,10 @@ Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "80"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]TV Pirata (1988-1992) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
@@ -161,6 +243,10 @@ Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "90"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
 
 <channels>
 <channel>
@@ -249,6 +335,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2000"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]Todo Mundo Odeia o Chris (2005-2008) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
@@ -290,6 +380,10 @@ Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2010"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
 
 <channels>
 <channel>
@@ -373,6 +467,28 @@ escondido sob a fachada de homem de família
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Thunderbirds Are Go! (2015-2018) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D10B4-SRS-Thunderbirds.Are.Go.2015-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/mBg8HsWI9powZJzhYJa1VLTFANU.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/3q8zCoxovWMNxE3NolhuF2NfPFH.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Thunderbirds Are Go!
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015 a 2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 78 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jeff Tracy cria a equipe do Resgate Internacional com uma nave espacial e veículos 
+especiais para ajudar pessoas em perigo.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -465,21 +581,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Witcher (2019-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C2-SRS-The.Witcher-ALL</externallink>
+<name>[COLOR white][B]The Witcher (2019-2023) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C002-SRS-The.Witcher.2019-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/AeviafFfWUhfzdcsiX7S9655rWV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/udwyPqbwWlpqvMgfbRemOahzc7z.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]The Witcher
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 24 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar 
 num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -505,6 +622,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2020"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
 
 <channels>
 <channel>
