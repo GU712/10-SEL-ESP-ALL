@@ -11,6 +11,48 @@ E DIVIRTA-SE[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "30"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "40"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "50"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "60"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+						
+<channels>
+<channel>
+<name>[COLOR white][B]Stingray (1964) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/refs/heads/main/D10B1-SRS-Stingray.1964-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9JYXvIo0Cr1HAATz8hl8kyNQ76O.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tlbCHtb0DxWgoNvu8ktuCuoUZ4J.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Stingray
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 39 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Stingray era um sofisticado submarino atômico de combate construído para ser rápido e ágil
+ a serviço da "Patrulha Aquática Para a Segurança Mundial" sediada em Marineville no ano de 2065.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "70"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]S.W.A.T. (1975) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
@@ -25,25 +67,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 38 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Quando você está com problemas, você chama a polícia. Quando a polícia está em apuros, 
 eles chamam a S.W.A.T.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Sítio do Picapau Amarelo (Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D06-SEL-Sitio.do.Pic.Amar-ALL</externallink>
-<thumbnail>https://i.ibb.co/g4yVDdq/ESP-PIC-PAU-AMA-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/ZY1tvWH/ESP-PIC-PAU-AMA-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Sítio do Picapau Amarelo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -73,6 +96,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "80"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
 
 <channels>
 <channel>
@@ -159,6 +186,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "90"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]Sai de Baixo (1996-2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
@@ -178,6 +209,10 @@ Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2000"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
 
 <channels>
 <channel>
@@ -225,7 +260,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Sobrenatural (2005-2019) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C14-SRS-Sobrenatural-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C014-SRS-Sobrenatural.2005-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -234,14 +269,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2019
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]15 TEMPs - 327 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com 
-demônios, fantasmas e monstros no caminho.
-[COLOR black].[/COLOR]
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, 
+brigando com demônios, fantasmas e monstros no caminho.
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2010"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
 
 <channels>
 <channel>
@@ -333,6 +373,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Safe (2018) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C025-SRS-Safe.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4FHO9XiIqi0TaSi1GHU7mi6oKMA.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Safe
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após o desaparecimento de sua filha mais velha, um cirurgião viúvo faz descobertas 
+terríveis sobre pessoas bem próximas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Sintonia (2019-2023) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C001-SRS-Sintonia.2019-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
@@ -353,10 +415,14 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2020"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
 <channels>
 <channel>
 <name>[COLOR white][B]Sozinhos: Sobrevivência Animal (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C4-SRS-Sozinhos.Sobrev.Animal.2020-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/C004-SRS-Sozinhos.Sobrev.Animal.2020-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/289imAZhMXP5YNWtn0cv8OBEhtq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/b0J4gDUCe9q9kzLEUdlHg6fekne.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -365,8 +431,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Três completos estranhos tentam sobreviver no Ártico, sem nenhum equipamento ou ferramenta,
- durante 30 dias, em condições adversas. O único recurso disponível é um animal abatido.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Três completos estranhos tentam sobreviver no Ártico, sem nenhum equipamento ou 
+ferramenta, durante 30 dias, em condições adversas. O único recurso disponível é um animal abatido.
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
@@ -398,7 +464,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Shantaram (2022) - COMPLETA[/B][COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Shantaram (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/C009-SRS-Shantaram.2022-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart>
@@ -410,6 +476,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 11 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O fugitivo Lin Ford foge para as ruas de Bombaim dos anos 1980 querendo desaparecer. 
 Trabalhando como médico para os pobres da cidade, Lin encontra amor inesperado, laços e coragem no longo caminho para a redenção.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Sitio do Picapau Amarelo (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D06B-SRS-Sitio.do.Picapau.Amarelo-ALL</externallink>
+<thumbnail>https://i.ibb.co/4WM0X80/ESP-PIC-PAU-AMA-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/ZY1tvWH/ESP-PIC-PAU-AMA-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Sitio do Picapau Amarelo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -457,11 +542,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Star Wars (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04-SEL-Star.Wars-ALL</externallink>
-<thumbnail>https://i.ibb.co/DM8ZRnh/ESP-STAR-WARS-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/gy9dGmP/ESP-STAR-WARS-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
+<name>[COLOR white][B]Star Wars (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B-SRS-Star.Wars-ALL</externallink>
+<thumbnail>https://i.ibb.co/j3GjC8P/COL-STARWARS-ICON-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/T2GTKyy/COL-STARWARS-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
 [B]Star Wars
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
