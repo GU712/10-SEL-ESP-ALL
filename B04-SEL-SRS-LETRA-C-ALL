@@ -635,8 +635,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Cavaleiro da Lua (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C8-SRS-Cavaleiro.Lua-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/AhTmmAQ48FlSlUpMv0EmPWiYsmO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/C008-SRS-Cavaleiro.Lua.2022-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vfWdZYGR5505zrCdgTHteFyARu3.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Cavaleiro da Lua
@@ -644,11 +644,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Steven Grant, funcionário de uma loja de souvenir, que é atormentado com apagões e memórias
- de outra vida. Steven descobre que tem transtorno dissociativo de identidade e divide o corpo com o mercenário Marc Spector.
-[COLOR black].[/COLOR]
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Steven descobre que tem transtorno dissociativo de identidade e divide o corpo 
+com o mercenário Marc Spector o Cavaleiro da Lua.
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
