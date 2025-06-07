@@ -2,10 +2,10 @@
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B02-SEL-SRS-LETRA-A-ALL</externallink>
-<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA 
-E DIVIRTA-SE[/B]</info>				
+<thumbnail>https://i.ibb.co/yn6Bv4fX/SEL-ITEM-SRS.png</thumbnail>				
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>			
 </channel>
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -134,8 +134,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Noviça Voadora (1967-1969) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C50-COL-A.Novisa.Voadora.1967-ALL</externallink>
+<name>[COLOR white][B]A Noviça Voadora (1967-1969) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>	
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C050-COL-A.Novisa.Voadora.1967-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/4LkhFq3yKKXvv81pkbkPqPfYMeh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dwhPxxkcIxJ4EMJt3OiInsk4tJl.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -148,7 +148,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 muita alegria ao antigo convento de San Tanco, situado perto de San Juan, Porto Rico. 
 [COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
