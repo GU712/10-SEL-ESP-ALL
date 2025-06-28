@@ -13,6 +13,101 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]The Best Of -> ANIMAÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/3A-SEL-ANIMA-ALL</externallink>
+<thumbnail>https://i.ibb.co/x8fYTQrk/ABA-ANIMASAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/GvdKZC6P/ABA-ANIMASAO-FAN.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]ANIMAÇÃO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Best Of -> MONSTROS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/4A-SEL-FEAR-ALL</externallink>
+<thumbnail>https://i.ibb.co/n8fsM8ff/ABA-MONSTROS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/fYgVN4Yn/ABA-MONSTROS-FAN.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]MONSTROS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]MONSTROS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Best Of -> NACIONAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A-SEL-NACIONAIS-ALL</externallink>
+<thumbnail>https://i.ibb.co/zTf0v9Qd/ABA-NACIONAS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/V8cMPV0/ABA-NACIONAS-FAN.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]NACIONAIS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NACIONAIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Best Of -> PERSONAGENS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/5A-SEL-PERSON-ALL</externallink>
+<thumbnail>https://i.ibb.co/PZzg7fkD/ABA-PERSON-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/NDmSPN9/ABA-PERSON-FAN.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]PERSONAGENS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]PERSONAGENS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Best Of -> SUPER-HERÓIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/6A-SEL-HERO-ALL</externallink>
+<thumbnail>https://i.ibb.co/KcXSnB0Z/ABA-HERO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/8LVwB6SY/ABA-HERO-FAN.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]SUPER-HERÓIS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]The Best Of -> ARTES MARCIAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D02-SEL-Artes.Marciais-ALL</externallink>
 <thumbnail>https://i.ibb.co/HpBR3vXt/ABA-ARTES-MARCIAIS-ICO.png</thumbnail>
@@ -32,12 +127,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> ATORES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]The Best Of -> ATORES E DIRETORES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A-SEL-ATORES-ALL</externallink>
-<thumbnail>https://i.ibb.co/pKdf5kk/ABA-ATORES-DIRETORES-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/K0TGbsB/ABA-ATORES-DIRETORES-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/RTx1wtvV/ABA-ATORES-DIRETORES-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/1fmtDTBH/ABA-ATORES-DIRETORES-FAN.png</fanart>
 <info>[COLOR white]Conheça o Melhor de: 
-[B]ATORES
+[B]ATORES E DIRETORES
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -51,12 +146,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> FICÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]The Best Of -> FICÇÃO E FANTASIA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/2A-SEL-FIC-ALL</externallink>
-<thumbnail>https://i.ibb.co/HXSBQ3m/ABA-FIC-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/r6dFDdT/ABA-FIC-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/YFzttvHV/ABA-FICSAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/Gv9tY164/ABA-FICSAO-FAN.png</fanart>
 <info>[COLOR white]Conheça o Melhor da: 
-[B]FICÇÃO
+[B]FICÇÃO E FANTASIA
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -67,102 +162,6 @@ Avise o SUPORTE AO USUÁRIO.
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> ANIMAÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/3A-SEL-ANIMA-ALL</externallink>
-<thumbnail>https://i.ibb.co/9hFz7zq/ABA-ANIMA-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ncM06bG/ABA-ANIMA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]ANIMAÇÃO
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> MONSTROS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/4A-SEL-FEAR-ALL</externallink>
-<thumbnail>https://i.ibb.co/VC3KKFv/ABA-FEAR2-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/hKMzc21/ABA-FEAR2-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]MONSTROS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]MONSTROS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> PERSONAGENS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/5A-SEL-PERSON-ALL</externallink>
-<thumbnail>https://i.ibb.co/02kHMfv/ABA-PERSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3hrPYDC/ABA-PERSON-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]PERSONAGENS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]PERSONAGENS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> SUPER-HERÓIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/6A-SEL-HERO-ALL</externallink>
-<thumbnail>https://i.ibb.co/MSxV1H1/ABA-HERO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/XxgtTZz/ABA-HERO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]SUPER-HERÓIS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> NACIONAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/7A-SEL-NACIONAIS-ALL</externallink>
-<thumbnail>https://i.ibb.co/Vj60h0r/ABA-NCNS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ySpsSD0/ABA-NCNS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]NACIONAIS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NACIONAIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
