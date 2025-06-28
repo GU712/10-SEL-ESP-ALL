@@ -127,14 +127,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> ATORES E DIRETORES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A-SEL-ATORES-ALL</externallink>
-<thumbnail>https://i.ibb.co/RTx1wtvV/ABA-ATORES-DIRETORES-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/1fmtDTBH/ABA-ATORES-DIRETORES-FAN.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]ATORES E DIRETORES
+<name>[COLOR white][B]The Best Of -> FICÇÃO E FANTASIA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/2A-SEL-FIC-ALL</externallink>
+<thumbnail>https://i.ibb.co/YFzttvHV/ABA-FICSAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/Gv9tY164/ABA-FICSAO-FAN.png</fanart>
+<info>[COLOR white]Conheça o Melhor da: 
+[B]FICÇÃO E FANTASIA
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
@@ -146,14 +146,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> FICÇÃO E FANTASIA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/2A-SEL-FIC-ALL</externallink>
-<thumbnail>https://i.ibb.co/YFzttvHV/ABA-FICSAO-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/Gv9tY164/ABA-FICSAO-FAN.png</fanart>
-<info>[COLOR white]Conheça o Melhor da: 
-[B]FICÇÃO E FANTASIA
+<name>[COLOR white][B]The Best Of -> ATORES E DIRETORES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/1A-SEL-ATORES-ALL</externallink>
+<thumbnail>https://i.ibb.co/RTx1wtvV/ABA-ATORES-DIRETORES-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/1fmtDTBH/ABA-ATORES-DIRETORES-FAN.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]ATORES E DIRETORES
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
