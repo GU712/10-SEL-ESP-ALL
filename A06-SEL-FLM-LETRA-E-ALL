@@ -1,12 +1,16 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<thumbnail>https://i.ibb.co/ptnP3hj/SEL-ITEM-FLM.png</thumbnail>				
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>	
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "30"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]...E o Vento Levou (1939) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
@@ -26,6 +30,18 @@ em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a s
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "40"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "50"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "60"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX														
+
 <item>
 <title>[COLOR white][B]Estrondo de Tambores (1961) - FHD DUB+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/FLM/LS-1961.Estrondo.de.Tambores.FHD.DUB+LEG-LS.mkv</link>
@@ -41,8 +57,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -55,14 +70,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1961
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Rodrigo Diaz, "El Cid" para os seus seguidores, que, sem comprometer o seu rigoroso 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Rodrigo Diaz, "El Cid" para os seus seguidores, que, sem comprometer o seu rigoroso 
 sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.
 [COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Esta Mulher é Proibida (1966) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/Charles.Bronson/Esta.Mulher.e.Proibida.(1966).mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/q4cHRC2oJoHjks0sRKp6rQBJWty.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rBskSmRJXQ13YbIk1XVwsKv5p72.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]Esta Mulher é Proibida
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ROMANCE
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Owen Legate, um funcionário ferroviário, chega a Dodson, Mississippi, para fechar 
+a ferrovia local - a principal fonte de renda da cidade. Mas Owen inesperadamente encontra o amor.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Eu Quero Ele Morto (1968) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
@@ -79,8 +112,7 @@ envolvem o assassinato de dois generais para prolongar a Guerra Civil.
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -98,8 +130,7 @@ a caminho do mar, Jill chega à pequena cidade de Flagstone com a intenção de 
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -117,9 +148,12 @@ três velhos amigos para uma missão perigosíssima, talvez...até mesmo suicida
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "70"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX														
 
 <item>
 <title>[COLOR white][B]Eram Os Deuses Astronautas? (1970) - SD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
@@ -131,14 +165,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1970
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Antigos mistérios do mundo, como as pirâmides do Egito e do México, os antigos desenhos 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Antigos mistérios do mundo, como as pirâmides do Egito e do México, os antigos desenhos 
 de cavernas, os monumentos da Ilha de Páscoa, etc.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "80"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX														
 
 <item>
 <title>[COLOR white][B]Excalibur, a Espada do Poder (1981) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
@@ -150,13 +187,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1981
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante uma emboscada Uther é ferido mortalmente e, pouco antes de morrer, 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Durante uma emboscada Uther é ferido mortalmente e, pouco antes de morrer, 
 enterra a espada em uma pedra. Fica então decidido que o cavaleiro que puder retirá-la da pedra será o novo rei.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -174,9 +210,12 @@ Era da Proibição, um gângster de idade retorna a Brooklyn para enfrentar seu 
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "90"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX														
 
 <item>
 <title>[COLOR white][B]Espada de Sangue (1993) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
@@ -207,13 +246,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1995
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles recebem ordem de matar cavalos que não servem ao exército moderno, desobedecem
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Eles recebem ordem de matar cavalos que não servem ao exército moderno, desobedecem
  ao comando são perseguidos mas levam eles até um lugar seguro.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -234,6 +272,10 @@ por nada para ajudar seu ídolo a recuperar sua antiga glória - nem mesmo o ass
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2000"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR white][B]Enigma (2001) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-Enigma.2001.FHD.DUB.mkv</link>
@@ -244,13 +286,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2001
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em março de 1943, a equipe de elite dos decodificadores da Inglaterra tem uma 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Em março de 1943, a equipe de elite dos decodificadores da Inglaterra tem uma 
 responsabilidade monumental: decifrar o Enigma, um código ultraseguro utilizado pelos nazistas para enviar mensagens aos seus submarinos.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>
@@ -282,13 +323,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2004
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mathilde e Manech cresceram juntos e descobriram o amor. A 1ª Guerra Mundial os separa. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Mathilde e Manech cresceram juntos e descobriram o amor. A 1ª Guerra Mundial os separa. 
 Mathilde faz uma incansável busca para encontrar Manech.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -324,9 +364,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2010"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Esquadrão Red Tails (2012) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
@@ -338,13 +381,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2012
 [COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A força aérea americana está sofrendo muitas baixas devido aos bombardeiros em suas 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A força aérea americana está sofrendo muitas baixas devido aos bombardeiros em suas 
 missões contra a Alemanha. Sem dinheiro para bancar novos investimentos, o governo começa a considerar a possibilidade de ter pilotos negros. 
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -367,6 +409,24 @@ A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR white][B]Ele Está Lá Fora (2018) - FHD LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-Ele.Esta.La.Fora.2018.LEG.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/52wOBW44flZRgS0K42HVbMfEHYL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lRUU98c4Aq4MzkWuWPDB4jsJvRK.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Ele Está Lá Fora
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]De férias em uma casa remota do lago, uma mãe e suas 
+duas filhas devem lutar para sobreviver quando um psicopata invade a propriedade.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR white][B]Esquadrão 303 (2018) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-Esquadrao.303.2018.HD.dub.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg</thumbnail>				
@@ -376,13 +436,52 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
 [COLOR orange]GUERRA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Esta é a história do Esquadrao de caça conceituado, no qual serviu principalmente 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Esta é a história do Esquadrao de caça conceituado, no qual serviu principalmente 
 aviadores da Polônia, na história do combate aéreo e na defesa heroica da Inglaterra durante a Segunda Guerra Mundial.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
-A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
-</item>
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Ed Stafford: Desafio em Família (2019) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Ed.Stafford/FLM/LS-2020.Ed.Stafford.Desafio.em.Familia.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/4PgYrpxTYZ3APGN9VJeTcDOM2Pq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xXkARjOi50lHFZSuO0HrWcsGAIl.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Desafio em Família
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O explorador Ed Stafford leva sua esposa e o filho de dois 
+anos para uma remota ilha deserta na Indonésia. A família enfrenta novos desafios enquanto busca um estilo de vida mais saudável.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX							
+ANOS "2020"							
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Encanto (2021) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/7ANM-FM/LS-Encanto.2021.FHD.DUAL.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/5i3ghCXVLNhewrBjTesMgy4FHT7.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Encanto
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma garota chamada Mirabel Madrigal cresce como o único membro não mágico de sua família,
+ que vivem escondidos em uma vibrante casa encantada nas montanhas da Colômbia.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
